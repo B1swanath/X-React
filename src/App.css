@@ -1,0 +1,462 @@
+/* Login */
+
+.Head1{
+  font-weight: 750;
+}
+
+.login_link{
+  margin-top: 25px;
+}
+
+.login_main{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #121212;
+  height: 100vh;
+}
+
+.login_m1{
+  /* border-radius: 10px; */
+  color: white;
+  background-color: #121212;
+  padding: 20px 15rem 20px 15rem;
+}
+
+.login_main .btn{
+  color: white;
+  background-color: #121212;
+  font-weight: 600;
+  height: 40px;
+  width: 350px;
+  border: 1px solid #b3b3b3;
+  border-radius: 25px;
+  margin-bottom: 10px;
+}
+.login_main .btn:hover{
+  border: 2px solid white;
+  color: #1ed760;
+}
+
+.login_data{
+  font-weight: 600;
+}
+
+.login_data input{
+  width: 350px;
+  font-size: 20px;
+  font-weight: 300;
+  color: white;
+  background-color: #121212;
+  border: 1px solid #b3b3b3;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.login_data input:hover{
+  border: 1px solid white;
+}
+
+.login_data button{
+  color: black;
+  background-color: #1ed760;  
+  font-weight: 700;
+  height: 40px;
+  width: 350px;
+  border: 1px solid #1ed760;
+  border-radius: 25px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.login_data button:hover{
+  background-color: #3be477;
+  border: 2px solid #3be477;
+  font-size: 18px;
+}
+
+.login_forgot{
+  color: white;
+  font-weight: 600;
+}
+.login_forgot:hover{
+  color: #1ed760;
+}
+
+.login_sign{
+  color: #b3b3b3;
+  font-weight: 300;
+}
+
+.login_sign2{
+  color: white; 
+  font-weight: 600;
+}
+.login_sign2:hover{
+  color: #1ed760;
+}
+
+
+/* Signup */
+
+.Head2{
+  font-weight: 750;
+}
+
+.signup_main{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #121212;
+  height: 100vh;
+}
+
+.signup_m1{
+  /* border-radius: 10px; */
+  color: white;
+  background-color: #121212;
+  padding: 20px 15rem 20px 15rem;
+}
+
+.sign_label{
+  font-weight: 600;
+}
+
+.sign_input{
+  width: 350px;
+  font-size: 20px;
+  color: white;
+  background-color: #121212;
+  border: 1px solid #b3b3b3;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.sign_input:hover{
+  border: 1px solid white;
+}
+
+.sign_phone{
+  color: #1ed760;
+}
+
+.signup_m1 .signup_btn{
+  color: black;
+  background-color: #1ed760;
+  font-weight: 750;
+  height: 40px;
+  width: 350px;
+  border: 1px solid #1ed760;
+  border-radius: 25px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.signup_m1 .signup_btn:hover{
+  background-color: #3be477;
+}
+
+.signup_btn1{
+  margin-top: 35px;
+  margin-bottom: 20px;
+}
+
+.sign_btn{
+  color: white;
+  background-color: #121212;
+  font-weight: 600;
+  height: 40px;
+  width: 350px;
+  border: 1px solid #b3b3b3;
+  border-radius: 25px;
+  margin-bottom: 10px;
+}
+.sign_btn:hover{
+  border: 2px solid white;
+  color: #1ed760;
+}
+
+.signup_login{
+  color: #b3b3b3;
+}
+
+.signup_login2{
+  color: white;
+  font-weight: 600;
+}
+.signup_login2:hover{
+  color: #1ed760;
+}
+
+
+
+/* NavBar : [TOPNAV] */
+
+.nav000{
+  position: sticky;
+  top: 0;
+  width: 100%;
+}
+.nav0{
+  background-color: #121212;
+}
+
+.sl0g0{
+  margin-left: 20px;
+}
+.spotify_logo{
+  color: white;
+}
+.spotify_logo:hover{
+  color: #1ed760;
+}
+
+.Home_logo{
+  color: white;
+  background-color: #292929;
+  border-radius: 50px;
+  padding: 10px;
+  margin-left: 45px;
+  margin-right: 10px;
+}
+.Home_logo:hover{
+  color: #1ed760;
+}
+
+.Sicon0{
+  background-color: #1f1f1f;
+  padding: 10.2px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.Sicon1{
+  color: white;
+}
+.Sicon1:hover{
+  color: #1ed760;
+}
+
+.nav-Search_bar{
+  width: 450px;
+  height: 41.5px;
+  color: white;
+  background-color: #1f1f1f;
+  border: 2px solid #1f1f1f;
+  padding: 5px;
+}
+
+.Cicon0{
+  background-color: #1f1f1f;
+  padding: 10.2px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.Cicon1{
+  color: white;
+}
+.Cicon1:hover{
+  color: #1ed760;
+}
+
+.nav_btn{
+  border-radius: 25px;
+}
+
+.nav_login_btn{
+  font-size: 15px;
+  font-weight: 650;
+  padding: 10px 25px 10px 25px;
+  border: 2px solid white;
+}
+.nav_login_btn:hover{
+  background-color: #1ed760;
+  border: 2px solid #1ed760;
+}
+
+.nav_signup_btn{
+  color: white;
+  background-color: #121212;
+  border: 2px solid #121212;
+  margin-right: 30px;
+  font-weight: 650;
+}
+.nav_signup_btn:hover{
+  color: #1ed760;
+}
+
+
+/* Content */
+.C_main0{
+  background-color: #121212;
+  height: 162.85vh;
+}
+
+.sideC-0{
+  color: white;
+  background-color: #1f1f1f;
+  border-radius: 7px;
+  padding: 10px 10px 10px 10px;
+  margin: 0px 10px 10px 10px;
+  text-align: center;
+  height: 85vh;
+  position: fixed;
+  top: 65px;
+  width: 24%;
+}
+
+.mainC-0{
+  color: white;
+  background-color: #1f1f1f;
+  border-radius: 7px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.C_side_btn{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.C_Home_btn{
+  color: white;
+  background-color: #1f1f1f;
+  font-size: 20px;
+  font-weight: 600;
+  /* width: 250px; */
+  padding: 3px 30px 3px 30px;
+  border: 1px solid #1f1f1f;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+.C_Home_btn:hover{
+  color: #1ed760;
+  background-color: #1f1f1f;
+  /* border: 1px solid white; */
+}
+
+.C_side_link{
+  margin-top: 20px;
+}
+
+.C_ll1{
+  color: white;
+  text-decoration: none;
+}
+.C_ll1:hover{
+  color: #1ed760;
+}
+
+.C_side_log0{
+  /* position: static;
+  bottom: 80px;
+  left: 105px; */
+  margin: 150px 50px 0px 50px;
+}
+
+.C_log0{
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.C_log0:hover{
+  color: #1ed760;
+}
+
+
+/* Main-Content */
+
+.MPA0{
+  display: flex;
+  justify-content: space-between;
+}
+
+.MPA-show0{
+  color: white;
+  text-decoration: none;
+  padding-top: 5px;
+}
+
+.mainC-1{
+  color: white;
+  background-color: #1f1f1f;
+  border-radius: 7px;
+  padding: 30px 40px 30px 40px;
+  margin: 0px 10px 10px 10px;
+  position: static;
+  width: 99%;
+}
+
+.artistsclick1{
+  padding: 12px;
+}
+.artistsclick1:hover{
+  background-color: #292929;
+  border-radius: 10px;
+}
+
+.albumsclick1{
+  padding: 12px;
+}
+.albumsclick1:hover{
+  background-color: #292929;
+  border-radius: 10px;
+}
+
+
+/* DETAIL-1 */
+
+.det-p1{
+  margin-top: 15px;
+}
+.det-p1 .dp1p{
+  font-size: 80px;
+  font-weight: 900;
+}
+
+.mainC-3{
+  color: white;
+  background-color: #1f1f1f;
+  border-radius: 7px;
+  padding: 0px 40px 20px 20px;
+  margin: 0px 10px 10px 10px;
+  position: static;
+  width: 99%;
+}
+
+.artitst3btn{
+  padding: 16px;
+}
+
+.btn33o{
+  color: white;
+  background-color: #1f1f1f;
+  border: 1px solid white;
+  border-radius: 25px;
+  padding: 5px 20px 5px 20px;
+}
+
+.playlogo3{
+  color: #1ed760;
+}
+
+.btn33o{
+  font-weight: 600;
+}
+.btn33o:hover{
+  color: #121212;
+  background-color: #3be477;
+}
+
+.threedotslogo{
+  color: white;
+}
+.threedotslogo:hover{
+  color: #1ed760;
+}
+
+.songlist3{
+  margin-top: 10px;
+}
